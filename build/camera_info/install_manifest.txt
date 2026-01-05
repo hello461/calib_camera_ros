@@ -1,0 +1,17 @@
+/home/q/ros2_ws/read_yaml_parameter/install/camera_info/lib/camera_info/camera_info_publisher
+/home/q/ros2_ws/read_yaml_parameter/install/camera_info/share/camera_info/config/test.yaml
+/home/q/ros2_ws/read_yaml_parameter/install/camera_info/share/ament_index/resource_index/package_run_dependencies/camera_info
+/home/q/ros2_ws/read_yaml_parameter/install/camera_info/share/ament_index/resource_index/parent_prefix_path/camera_info
+/home/q/ros2_ws/read_yaml_parameter/install/camera_info/share/camera_info/environment/ament_prefix_path.sh
+/home/q/ros2_ws/read_yaml_parameter/install/camera_info/share/camera_info/environment/ament_prefix_path.dsv
+/home/q/ros2_ws/read_yaml_parameter/install/camera_info/share/camera_info/environment/path.sh
+/home/q/ros2_ws/read_yaml_parameter/install/camera_info/share/camera_info/environment/path.dsv
+/home/q/ros2_ws/read_yaml_parameter/install/camera_info/share/camera_info/local_setup.bash
+/home/q/ros2_ws/read_yaml_parameter/install/camera_info/share/camera_info/local_setup.sh
+/home/q/ros2_ws/read_yaml_parameter/install/camera_info/share/camera_info/local_setup.zsh
+/home/q/ros2_ws/read_yaml_parameter/install/camera_info/share/camera_info/local_setup.dsv
+/home/q/ros2_ws/read_yaml_parameter/install/camera_info/share/camera_info/package.dsv
+/home/q/ros2_ws/read_yaml_parameter/install/camera_info/share/ament_index/resource_index/packages/camera_info
+/home/q/ros2_ws/read_yaml_parameter/install/camera_info/share/camera_info/cmake/camera_infoConfig.cmake
+/home/q/ros2_ws/read_yaml_parameter/install/camera_info/share/camera_info/cmake/camera_infoConfig-version.cmake
+/home/q/ros2_ws/read_yaml_parameter/install/camera_info/share/camera_info/package.xml
