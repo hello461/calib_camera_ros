@@ -13,7 +13,7 @@ public:
     CameraInformation() : Node("camera_info_publisher"), cim_(this){
         RCLCPP_INFO(this->get_logger(),"Camera publisher is activated!");
 
-        pub_ci_ = this->create_publisher<sensor_msgs::msg::CameraInfo>("camera/camera_info", 10);
+        pub_ci_ = this->create_publisher<sensor_msgs::msg::CameraInfo>("camera_info", 10);
 
         param_descr_camera_info_url.description = "camera calibration info file url";
         param_descr_camera_info_url.read_only = true;

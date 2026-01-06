@@ -28,7 +28,7 @@ ament_target_dependencies(camera_info_publisher
 install(TARGETS camera_info_publisher
   DESTINATION lib/${PROJECT_NAME})
 
-install(DIRECTORY config
+install(DIRECTORY config launch
   DESTINATION share/${PROJECT_NAME})
 
 if(BUILD_TESTING)
